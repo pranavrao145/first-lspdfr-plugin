@@ -1,0 +1,11 @@
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\bin\Debug\FirstLSPDFRPlugin.dll
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\bin\Debug\FirstLSPDFRPlugin.pdb
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\bin\Debug\LSPD First Response.dll
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\bin\Debug\RagePluginHookSDK.dll
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\bin\Debug\LSPD First Response.pdb
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\bin\Debug\RagePluginHookSDK.xml
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\obj\Debug\FirstLSPDFRPlugin.csprojAssemblyReference.cache
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\obj\Debug\FirstLSPDFRPlugin.csproj.CoreCompileInputs.cache
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\obj\Debug\FirstLSPDFRPlugin.csproj.CopyComplete
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\obj\Debug\FirstLSPDFRPlugin.dll
+C:\Users\prana\Programming\FirstLSPDFRPlugin\FirstLSPDFRPlugin\obj\Debug\FirstLSPDFRPlugin.pdb
